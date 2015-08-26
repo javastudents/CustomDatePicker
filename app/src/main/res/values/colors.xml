@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 灰色 -->
+    <color name="gray">#dcdcdc</color>
+
+    <!-- 灰色字体 -->
+    <color name="gray_font">#A6A6A6</color>
+
+    <!-- 灰色背景 -->
+    <color name="gray_bg">#EEEEEE</color>
+
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+    <color name="main_color">#00ADFd</color>
+    <color name="blue_normal">#ff33b5e5</color>
+    <color name="province_line_border">#D0D0D0</color>
+</resources>

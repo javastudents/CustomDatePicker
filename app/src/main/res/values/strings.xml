@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CustomDatePicker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="year_month_day">年月日</string>
+    <string name="year_month_day_hour_min">年月日时分</string>
+    <string name="default_display">默认显示</string>
+    <string name="custom_display">自定义显示</string>
+    <string name="confirm">确定</string>
+    <string name="cancle">取消</string>
+</resources>
